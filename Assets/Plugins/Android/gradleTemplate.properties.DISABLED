@@ -1,0 +1,7 @@
+org.gradle.jvmargs=-Xmx4096M
+org.gradle.parallel=true
+unityStreamingAssets=src/main/assets
+# Android Resolver Properties Start
+android.useAndroidX=true
+android.enableJetifier=true
+# Android Resolver Properties End

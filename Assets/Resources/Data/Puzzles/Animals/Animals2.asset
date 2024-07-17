@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45828d6a108fe342b60211833960ef7, type: 3}
+  m_Name: Animals2
+  m_EditorClassIdentifier: 
+  TimeinSeconds: 200
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - B
+    - U
+    - X
+    - Z
+    - S
+    - V
+    - N
+    - J
+  - Size: 8
+    Row:
+    - E
+    - T
+    - I
+    - B
+    - B
+    - A
+    - R
+    - W
+  - Size: 8
+    Row:
+    - A
+    - V
+    - I
+    - S
+    - F
+    - C
+    - G
+    - Q
+  - Size: 8
+    Row:
+    - R
+    - J
+    - Z
+    - G
+    - R
+    - F
+    - Z
+    - P
+  - Size: 8
+    Row:
+    - B
+    - M
+    - M
+    - H
+    - E
+    - N
+    - W
+    - N
+  - Size: 8
+    Row:
+    - E
+    - T
+    - X
+    - N
+    - H
+    - R
+    - W
+    - U
+  - Size: 8
+    Row:
+    - T
+    - H
+    - U
+    - B
+    - F
+    - V
+    - O
+    - J
+  - Size: 8
+    Row:
+    - U
+    - S
+    - G
+    - X
+    - R
+    - L
+    - N
+    - R
+  SearchWords:
+  - word: TIGER
+  - word: HEN
+  - word: RABBIT

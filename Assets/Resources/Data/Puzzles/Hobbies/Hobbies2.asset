@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45828d6a108fe342b60211833960ef7, type: 3}
+  m_Name: Hobbies2
+  m_EditorClassIdentifier: 
+  TimeinSeconds: 250
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - U
+    - M
+    - R
+    - X
+    - N
+    - N
+    - M
+    - Z
+  - Size: 8
+    Row:
+    - O
+    - P
+    - E
+    - T
+    - S
+    - P
+    - X
+    - H
+  - Size: 8
+    Row:
+    - D
+    - R
+    - A
+    - W
+    - I
+    - N
+    - G
+    - I
+  - Size: 8
+    Row:
+    - R
+    - C
+    - D
+    - Q
+    - N
+    - M
+    - R
+    - K
+  - Size: 8
+    Row:
+    - J
+    - D
+    - I
+    - G
+    - G
+    - L
+    - H
+    - I
+  - Size: 8
+    Row:
+    - P
+    - N
+    - N
+    - E
+    - I
+    - M
+    - O
+    - N
+  - Size: 8
+    Row:
+    - J
+    - L
+    - G
+    - I
+    - N
+    - S
+    - U
+    - G
+  - Size: 8
+    Row:
+    - B
+    - Z
+    - B
+    - U
+    - G
+    - R
+    - M
+    - L
+  SearchWords:
+  - word: READING
+  - word: SINGING
+  - word: DRAWING
+  - word: HIKING

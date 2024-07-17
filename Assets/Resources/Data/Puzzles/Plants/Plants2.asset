@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45828d6a108fe342b60211833960ef7, type: 3}
+  m_Name: Plants2
+  m_EditorClassIdentifier: 
+  TimeinSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - L
+    - I
+    - S
+    - J
+    - W
+    - S
+    - M
+    - T
+    - S
+    - C
+  - Size: 10
+    Row:
+    - F
+    - C
+    - C
+    - A
+    - S
+    - G
+    - N
+    - M
+    - D
+    - O
+  - Size: 10
+    Row:
+    - S
+    - G
+    - A
+    - G
+    - A
+    - V
+    - E
+    - M
+    - S
+    - L
+  - Size: 10
+    Row:
+    - P
+    - T
+    - F
+    - T
+    - E
+    - D
+    - Q
+    - X
+    - R
+    - W
+  - Size: 10
+    Row:
+    - Z
+    - U
+    - R
+    - A
+    - T
+    - C
+    - U
+    - F
+    - Q
+    - O
+  - Size: 10
+    Row:
+    - M
+    - L
+    - N
+    - P
+    - H
+    - A
+    - T
+    - O
+    - N
+    - R
+  - Size: 10
+    Row:
+    - O
+    - I
+    - G
+    - X
+    - N
+    - I
+    - I
+    - F
+    - T
+    - T
+  - Size: 10
+    Row:
+    - S
+    - P
+    - P
+    - O
+    - U
+    - L
+    - Z
+    - L
+    - E
+    - Q
+  - Size: 10
+    Row:
+    - S
+    - O
+    - D
+    - P
+    - A
+    - T
+    - U
+    - I
+    - D
+    - J
+  - Size: 10
+    Row:
+    - X
+    - J
+    - A
+    - S
+    - M
+    - I
+    - N
+    - E
+    - E
+    - L
+  SearchWords:
+  - word: CATTAIL
+  - word: AGAVE
+  - word: COLWORT
+  - word: JASMINE
+  - word: TULIP
+  - word: MOSS

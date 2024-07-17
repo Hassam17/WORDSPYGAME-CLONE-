@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45828d6a108fe342b60211833960ef7, type: 3}
+  m_Name: Work1
+  m_EditorClassIdentifier: 
+  TimeinSeconds: 300
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - M
+    - D
+    - R
+    - N
+    - L
+    - R
+    - B
+    - C
+    - A
+    - L
+  - Size: 10
+    Row:
+    - W
+    - C
+    - O
+    - S
+    - Q
+    - S
+    - Z
+    - H
+    - X
+    - N
+  - Size: 10
+    Row:
+    - Q
+    - D
+    - P
+    - C
+    - W
+    - F
+    - I
+    - E
+    - F
+    - V
+  - Size: 10
+    Row:
+    - U
+    - N
+    - I
+    - J
+    - T
+    - N
+    - C
+    - F
+    - I
+    - R
+  - Size: 10
+    Row:
+    - N
+    - T
+    - B
+    - S
+    - H
+    - O
+    - X
+    - J
+    - P
+    - E
+  - Size: 10
+    Row:
+    - C
+    - R
+    - A
+    - S
+    - W
+    - M
+    - R
+    - R
+    - N
+    - H
+  - Size: 10
+    Row:
+    - L
+    - A
+    - W
+    - Y
+    - E
+    - R
+    - V
+    - U
+    - C
+    - C
+  - Size: 10
+    Row:
+    - K
+    - H
+    - G
+    - G
+    - O
+    - N
+    - R
+    - T
+    - S
+    - A
+  - Size: 10
+    Row:
+    - V
+    - F
+    - X
+    - S
+    - D
+    - S
+    - R
+    - B
+    - K
+    - E
+  - Size: 10
+    Row:
+    - B
+    - G
+    - L
+    - T
+    - E
+    - S
+    - N
+    - X
+    - Z
+    - T
+  SearchWords:
+  - word: NURSE
+  - word: TEACHER
+  - word: LAWYER
+  - word: DOCTOR
+  - word: CHEF

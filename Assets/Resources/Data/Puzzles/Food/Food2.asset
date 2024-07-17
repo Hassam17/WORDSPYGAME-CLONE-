@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45828d6a108fe342b60211833960ef7, type: 3}
+  m_Name: Food2
+  m_EditorClassIdentifier: 
+  TimeinSeconds: 200
+  Columns: 8
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - S
+    - S
+    - U
+    - J
+    - H
+    - I
+    - B
+    - P
+    - C
+  - Size: 9
+    Row:
+    - P
+    - A
+    - N
+    - C
+    - A
+    - K
+    - E
+    - C
+    - W
+  - Size: 9
+    Row:
+    - R
+    - Z
+    - N
+    - T
+    - I
+    - N
+    - S
+    - R
+    - X
+  - Size: 9
+    Row:
+    - I
+    - P
+    - W
+    - D
+    - X
+    - S
+    - E
+    - E
+    - U
+  - Size: 9
+    Row:
+    - S
+    - E
+    - K
+    - C
+    - W
+    - X
+    - D
+    - A
+    - B
+  - Size: 9
+    Row:
+    - P
+    - S
+    - E
+    - D
+    - W
+    - I
+    - I
+    - M
+    - T
+  - Size: 9
+    Row:
+    - I
+    - B
+    - Q
+    - O
+    - Q
+    - V
+    - C
+    - I
+    - G
+  - Size: 9
+    Row:
+    - E
+    - R
+    - L
+    - S
+    - X
+    - F
+    - M
+    - H
+    - W
+  SearchWords:
+  - word: PANCAKE
+  - word: CREAM
+  - word: PIE
+  - word: SANDWICH

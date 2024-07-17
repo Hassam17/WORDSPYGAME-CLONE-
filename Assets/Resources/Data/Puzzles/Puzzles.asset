@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45828d6a108fe342b60211833960ef7, type: 3}
+  m_Name: Puzzles
+  m_EditorClassIdentifier: 
+  TimeinSeconds: 0
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - U
+    - B
+    - H
+    - A
+    - D
+    - B
+    - L
+    - M
+    - X
+    - Q
+  - Size: 10
+    Row:
+    - R
+    - F
+    - H
+    - R
+    - P
+    - F
+    - Z
+    - C
+    - G
+    - K
+  - Size: 10
+    Row:
+    - T
+    - T
+    - E
+    - E
+    - P
+    - R
+    - A
+    - A
+    - Z
+    - J
+  - Size: 10
+    Row:
+    - I
+    - F
+    - L
+    - F
+    - B
+    - T
+    - F
+    - Z
+    - C
+    - G
+  - Size: 10
+    Row:
+    - G
+    - O
+    - L
+    - V
+    - N
+    - O
+    - L
+    - C
+    - V
+    - I
+  - Size: 10
+    Row:
+    - E
+    - W
+    - O
+    - R
+    - L
+    - D
+    - A
+    - B
+    - C
+    - U
+  - Size: 10
+    Row:
+    - O
+    - P
+    - O
+    - Z
+    - E
+    - J
+    - X
+    - I
+    - L
+    - E
+  - Size: 10
+    Row:
+    - U
+    - N
+    - D
+    - U
+    - Q
+    - D
+    - J
+    - D
+    - M
+    - J
+  - Size: 10
+    Row:
+    - R
+    - E
+    - S
+    - S
+    - G
+    - G
+    - J
+    - A
+    - O
+    - G
+  - Size: 10
+    Row:
+    - P
+    - R
+    - R
+    - Q
+    - T
+    - G
+    - C
+    - H
+    - S
+    - G
+  SearchWords:
+  - word: HELLO
+  - word: WORLD
+  - word: DOG
+  - word: CAT

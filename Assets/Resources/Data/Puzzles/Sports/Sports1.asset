@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45828d6a108fe342b60211833960ef7, type: 3}
+  m_Name: Sports1
+  m_EditorClassIdentifier: 
+  TimeinSeconds: 200
+  Columns: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - P
+    - G
+    - S
+    - T
+    - S
+    - C
+  - Size: 6
+    Row:
+    - N
+    - G
+    - K
+    - E
+    - P
+    - R
+  - Size: 6
+    Row:
+    - H
+    - O
+    - S
+    - N
+    - O
+    - I
+  - Size: 6
+    Row:
+    - C
+    - L
+    - O
+    - N
+    - O
+    - C
+  - Size: 6
+    Row:
+    - U
+    - G
+    - E
+    - I
+    - L
+    - O
+  - Size: 6
+    Row:
+    - P
+    - X
+    - A
+    - S
+    - E
+    - X
+  SearchWords:
+  - word: GOLF
+  - word: TENNIS
+  - word: POOL
